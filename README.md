@@ -4,7 +4,7 @@
 
 Version: 1.6
 Änderungen:
- - TBA.
+ - Item Informationen
 
 Version: 1.5
 Änderungen:
