@@ -25,20 +25,20 @@ Version: 1.3
 - Bossbar Fix
 - Kleinere Schwerter
 
-## Lizenz
-### MIT-Lizenz
+# Lizenz
+> MIT-Lizenz
 Permissions:
-✅ Commercial use
-✅ Modification
-✅ Distribution
-✅ Private use
+- ✅ Commercial use
+- ✅ Modification
+- ✅ Distribution
+- ✅ Private use
 
 Limitations:
-❌ Liability
-❌ Warranty
+- ❌ Liability
+- ❌ Warranty
 
 Conditions:
-ℹ️ License and copyright notice
+- ℹ️ License and copyright notice
 
 ---
 
