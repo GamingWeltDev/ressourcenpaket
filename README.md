@@ -39,7 +39,9 @@ Limitations:
 
 Conditions:
 ℹ️ License and copyright notice
+
 ---
+
 MIT License
 
 Copyright (c) 2024 oOAlmaxOoYT
