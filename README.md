@@ -27,6 +27,7 @@ Version: 1.3
 
 # Lizenz
 > MIT-Lizenz
+
 Permissions:
 - ✅ Commercial use
 - ✅ Modification
