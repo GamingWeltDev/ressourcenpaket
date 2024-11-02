@@ -7,6 +7,8 @@ Version: 1.7
 - **BETA-KANAL**: Neue Hotbar
 - Texturänderungen
 - Fehlerbehebungen
+- Titel-Logo angepasst auf der nächsten Jahreszeit
+
 
 Version: 1.6
 Änderungen:
