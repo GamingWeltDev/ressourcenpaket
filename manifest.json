@@ -1,0 +1,74 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"oOAlmaxOoYT"
+		],
+		"generated_with": {
+			"bridge": [
+				"2.7.40"
+			],
+			"dash": [
+				"0.11.7"
+			]
+		}
+	},
+	"header": {
+		"name": "pack.name",
+		"description": "pack.description",
+		"min_engine_version": [
+			1,
+			21,
+			40
+		],
+		"uuid": "b1edaa82-15c9-4258-853a-d09ed555ab84",
+		"version": [
+			1,
+			0,
+			1
+		]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "e21b8e9f-52f6-436a-9e57-eae64670f531",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"settings": [
+		{
+			"type": "label",
+			"text": "§bDiscord: §fdiscord.gg/§l2gJZJH5vMh§r"
+		},
+		{
+			"type": "label",
+			"text": "§cGamingWelt: §fhttps://www.youtube.com/§l@gamingwelt1§r"
+		}
+	],
+	"subpacks": [
+		{
+			"folder_name": "dev",
+			"name": "§9Development§r§f Version",
+			"memory_tier": 1500
+		},
+		{
+			"folder_name": "beta",
+			"name": "§aBeta§r§f Version",
+			"memory_tier": 0
+		},
+		{
+			"folder_name": "blue_hearts",
+			"name": "§bBlaue§r§f Herzen",
+			"memory_tier": 0
+		},
+		{
+			"folder_name": "red_hearts",
+			"name": "§cRote§r§f Herzen §7(§fEmpfohlen§7)",
+			"memory_tier": 0
+		}
+	]
+}
