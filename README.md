@@ -2,6 +2,12 @@
 
 ## Updates
 
+Version: 1.7
+Änderungen:
+- **BETA-KANAL**: Neue Hotbar
+- Texturänderungen
+- Fehlerbehebungen
+
 Version: 1.6
 Änderungen:
  - Item Informationen
